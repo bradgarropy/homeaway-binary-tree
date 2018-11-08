@@ -1,16 +1,17 @@
 {
-    "name": "homeaway-onsite",
+    "name": "homeaway-binary-tree",
     "version": "1.0.0",
-    "description": "☎️ homeaway onsite interview coding questions",
+    "description": "🌲️ homeaway interview question - binary tree",
     "keywords": [
         "node",
         "eslint",
+        "prettier",
         "homeaway",
         "interview"
     ],
-    "homepage": "https://github.com/bradgarropy/homeaway-onsite",
+    "homepage": "https://github.com/bradgarropy/homeaway-binary-tree",
     "bugs": {
-        "url": "https://github.com/bradgarropy/homeaway-onsite/issues"
+        "url": "https://github.com/bradgarropy/homeaway-binary-tree/issues"
     },
     "license": "MIT",
     "author": {
@@ -20,7 +21,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/bradgarropy/homeaway-onsite"
+        "url": "https://github.com/bradgarropy/homeaway-binary-tree"
     },
     "scripts": {
         "start": "node index.js",
