@@ -5,7 +5,7 @@ The tree is not guaranteed to be full, balanced, or sorted.
 
 Here is an example tree.
 
-![binary tree](./binary-tree.png)
+![binary tree](./tree.png)
 
 _Bonus:_  
 _Implement depth first traversal._  
